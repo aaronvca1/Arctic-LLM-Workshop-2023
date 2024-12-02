@@ -1,6 +1,9 @@
 # Arctic-LLM-Workshop-2023
 Welcome to the official GitHub repository for the Arctic Large Language Models (LLMs) Workshop hosted by the Bio-AI Lab on the 27th and 28th of October, 2023. This repository serves as a comprehensive guide and resource center for all attendees and those interested in the world of LLMs.
 
+# See it on Youtube: 
+https://www.youtube.com/playlist?list=PLrsbg2qIWFhcVwOhSMp5UMsKUXEZ668wJ
+
 ## About the Workshop
 This two-day workshop provided a blend of hands-on sessions and enlightening lectures aimed at unraveling the complexities of LLMs. Our approach was immersive and practical, ensuring participants not only gained knowledge but also experienced the thrill of innovation.
 
